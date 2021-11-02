@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img aling="left" alt="Kevin B.'s GitHub Stats" src="https://github-readme-stats-noelhuibers.vercel.app/api?username=MrElektronz&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
 <!--
 **MrElektronz/MrElektronz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img aling="left" alt="Kevin B.'s GitHub Stats" src="https://github-readme-stats-noelhuibers.vercel.app/api?username=MrElektronz&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
 
 -->
